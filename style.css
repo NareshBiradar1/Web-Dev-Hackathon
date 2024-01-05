@@ -479,7 +479,7 @@ main>section{
     transition: transform 0.2s ease;
 }
 .contact-1-grid .grid-item:hover{
-    transform: scale(0.8);
+    transform: translateX(-2cm);
     background-color: rgba(96, 240, 53,0.8);
 }
 .contact-1-grid .row-2-1{
